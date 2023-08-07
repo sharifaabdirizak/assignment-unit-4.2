@@ -6,6 +6,12 @@ body {
     background-color: #fdfbfd;
 }
 
+h1 {
+    text-align: left;
+    font-size: 24px;
+}
+
+
 h2 {
     background-color: #8d588e;
     color: #1c1c44;
@@ -13,7 +19,6 @@ h2 {
     margin: 20px;
     color: #1c1c44;
 }
-
 
 h3 {
     color: #1c1c44;
